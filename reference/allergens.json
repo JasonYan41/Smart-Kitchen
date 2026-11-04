@@ -1,0 +1,58 @@
+[
+  {
+    "id": "peanut",
+    "name": {
+      "zh_HK": "花生",
+      "en": "Peanut"
+    }
+  },
+  {
+    "id": "tree_nuts",
+    "name": {
+      "zh_HK": "堅果",
+      "en": "Tree nuts"
+    }
+  },
+  {
+    "id": "milk",
+    "name": {
+      "zh_HK": "牛奶",
+      "en": "Milk"
+    }
+  },
+  {
+    "id": "egg",
+    "name": {
+      "zh_HK": "雞蛋",
+      "en": "Egg"
+    }
+  },
+  {
+    "id": "wheat",
+    "name": {
+      "zh_HK": "小麥",
+      "en": "Wheat"
+    }
+  },
+  {
+    "id": "soy",
+    "name": {
+      "zh_HK": "大豆",
+      "en": "Soy"
+    }
+  },
+  {
+    "id": "fish",
+    "name": {
+      "zh_HK": "魚類",
+      "en": "Fish"
+    }
+  },
+  {
+    "id": "shellfish",
+    "name": {
+      "zh_HK": "甲殼類海鮮",
+      "en": "Shellfish"
+    }
+  }
+]
