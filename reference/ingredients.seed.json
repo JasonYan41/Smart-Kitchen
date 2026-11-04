@@ -1,0 +1,53 @@
+[
+  {
+    "id": "egg",
+    "name": {
+      "zh_HK": "雞蛋",
+      "en": "Egg"
+    },
+    "aliases": {
+      "zh_HK": ["蛋"],
+      "en": ["Eggs"]
+    },
+    "category": "egg_and_dairy",
+    "defaultUnit": "egg_piece",
+    "allergens": ["egg"],
+    "dietaryLabels": ["vegetarian"],
+    "defaultStorage": "refrigerated",
+    "status": "active"
+  },
+  {
+    "id": "tomato",
+    "name": {
+      "zh_HK": "番茄",
+      "en": "Tomato"
+    },
+    "aliases": {
+      "zh_HK": ["蕃茄"],
+      "en": ["Tomatoes"]
+    },
+    "category": "vegetable",
+    "defaultUnit": "piece",
+    "allergens": [],
+    "dietaryLabels": ["vegetarian", "vegan"],
+    "defaultStorage": "refrigerated",
+    "status": "active"
+  },
+  {
+    "id": "mushroom",
+    "name": {
+      "zh_HK": "蘑菇",
+      "en": "Mushroom"
+    },
+    "aliases": {
+      "zh_HK": ["菇"],
+      "en": ["Mushrooms"]
+    },
+    "category": "vegetable",
+    "defaultUnit": "box",
+    "allergens": [],
+    "dietaryLabels": ["vegetarian", "vegan"],
+    "defaultStorage": "refrigerated",
+    "status": "active"
+  }
+]
