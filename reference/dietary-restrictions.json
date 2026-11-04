@@ -1,0 +1,37 @@
+[
+  {
+    "id": "vegetarian",
+    "name": {
+      "zh_HK": "素食",
+      "en": "Vegetarian"
+    }
+  },
+  {
+    "id": "vegan",
+    "name": {
+      "zh_HK": "純素",
+      "en": "Vegan"
+    }
+  },
+  {
+    "id": "halal",
+    "name": {
+      "zh_HK": "清真飲食",
+      "en": "Halal"
+    }
+  },
+  {
+    "id": "no_beef",
+    "name": {
+      "zh_HK": "不吃牛肉",
+      "en": "No beef"
+    }
+  },
+  {
+    "id": "no_pork",
+    "name": {
+      "zh_HK": "不吃豬肉",
+      "en": "No pork"
+    }
+  }
+]
