@@ -1,0 +1,72 @@
+[
+  {
+    "id": "quick",
+    "name": {
+      "zh_HK": "快手",
+      "en": "Quick"
+    }
+  },
+  {
+    "id": "beginner_friendly",
+    "name": {
+      "zh_HK": "新手友善",
+      "en": "Beginner-friendly"
+    }
+  },
+  {
+    "id": "one_pan",
+    "name": {
+      "zh_HK": "一鑊完成",
+      "en": "One-pan"
+    }
+  },
+  {
+    "id": "low_cleanup",
+    "name": {
+      "zh_HK": "少清潔",
+      "en": "Low cleanup"
+    }
+  },
+  {
+    "id": "low_cost",
+    "name": {
+      "zh_HK": "經濟實惠",
+      "en": "Low cost"
+    }
+  },
+  {
+    "id": "light",
+    "name": {
+      "zh_HK": "清淡",
+      "en": "Light"
+    }
+  },
+  {
+    "id": "filling",
+    "name": {
+      "zh_HK": "飽肚",
+      "en": "Filling"
+    }
+  },
+  {
+    "id": "healthy",
+    "name": {
+      "zh_HK": "健康取向",
+      "en": "Health-oriented"
+    }
+  },
+  {
+    "id": "new_flavor",
+    "name": {
+      "zh_HK": "轉換口味",
+      "en": "Different flavor"
+    }
+  },
+  {
+    "id": "uses_expiring_ingredients",
+    "name": {
+      "zh_HK": "善用臨期食材",
+      "en": "Uses expiring ingredients"
+    }
+  }
+]
