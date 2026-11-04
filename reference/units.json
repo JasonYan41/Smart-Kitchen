@@ -1,0 +1,102 @@
+[
+  {
+    "id": "piece",
+    "name": {
+      "zh_HK": "個",
+      "en": "piece"
+    },
+    "type": "count"
+  },
+  {
+    "id": "egg_piece",
+    "name": {
+      "zh_HK": "隻",
+      "en": "piece"
+    },
+    "type": "count"
+  },
+  {
+    "id": "box",
+    "name": {
+      "zh_HK": "盒",
+      "en": "box"
+    },
+    "type": "count"
+  },
+  {
+    "id": "pack",
+    "name": {
+      "zh_HK": "包",
+      "en": "pack"
+    },
+    "type": "count"
+  },
+  {
+    "id": "bottle",
+    "name": {
+      "zh_HK": "樽",
+      "en": "bottle"
+    },
+    "type": "count"
+  },
+  {
+    "id": "gram",
+    "symbol": "g",
+    "name": {
+      "zh_HK": "克",
+      "en": "gram"
+    },
+    "type": "weight"
+  },
+  {
+    "id": "kilogram",
+    "symbol": "kg",
+    "name": {
+      "zh_HK": "公斤",
+      "en": "kilogram"
+    },
+    "type": "weight"
+  },
+  {
+    "id": "milliliter",
+    "symbol": "ml",
+    "name": {
+      "zh_HK": "毫升",
+      "en": "milliliter"
+    },
+    "type": "volume"
+  },
+  {
+    "id": "liter",
+    "symbol": "L",
+    "name": {
+      "zh_HK": "公升",
+      "en": "liter"
+    },
+    "type": "volume"
+  },
+  {
+    "id": "teaspoon",
+    "name": {
+      "zh_HK": "茶匙",
+      "en": "teaspoon"
+    },
+    "type": "volume"
+  },
+  {
+    "id": "tablespoon",
+    "name": {
+      "zh_HK": "湯匙",
+      "en": "tablespoon"
+    },
+    "type": "volume"
+  },
+  {
+    "id": "bowl",
+    "name": {
+      "zh_HK": "碗",
+      "en": "bowl"
+    },
+    "type": "count"
+  }
+]
